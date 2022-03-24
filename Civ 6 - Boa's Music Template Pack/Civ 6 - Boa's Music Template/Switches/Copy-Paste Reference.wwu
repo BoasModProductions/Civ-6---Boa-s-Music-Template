@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CF0349F5-B01C-4080-ACAC-18A09259A412}" SchemaVersion="70">
+	<Switches>
+		<WorkUnit Name="Copy-Paste Reference" ID="{CF0349F5-B01C-4080-ACAC-18A09259A412}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Game_Location" ID="{68AC77B8-F569-4283-908C-6F1174F663FF}">
+					<ChildrenList>
+						<Switch Name="Ancient_Era" ID="{485E85F6-85F3-4E2F-92DF-968D281120FA}"/>
+						<Switch Name="Medieval_Era" ID="{E34792FD-1614-4D15-BDD5-F99A95B36B9D}"/>
+						<Switch Name="Industrial_Era" ID="{737A2732-8296-4FE6-8A42-DAF35C99E89B}"/>
+						<Switch Name="Modern_Era" ID="{7872378A-BBA0-4A2B-92B5-7B6867C7E791}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{559D83D1-E3B1-4C4E-970A-056AB1160AA8}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Copy-Paste Reference" ID="{559D83D1-E3B1-4C4E-970A-056AB1160AA8}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="YourCiv_Music_Bank" ID="{91C9E2D4-E814-4137-B7F9-336B7AF3739B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="YourCiv_Music" ID="{C1DD4B05-0575-444E-90C6-82428508D64B}" WorkUnitID="{EBD0CC1E-6056-49A7-B0C8-9F4F598D65AA}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ID658623902" ID="{8E23ED0E-32E3-49C2-B173-15B37C181D77}" WorkUnitID="{EBD0CC1E-6056-49A7-B0C8-9F4F598D65AA}" Filter="2" Origin="Manual"/>
+						<ObjectRef Name="Stop_Leader_Music_YOURCIV_CODENAME" ID="{F50D713F-AFBD-4208-8CA6-649C12E056A9}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Start_Music_YOURCIV_CODENAME" ID="{3AF44942-1C87-465B-AD34-0A057774D332}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Pause_Music_YOURCIV_CODENAME" ID="{DBBECD50-B8DA-4881-A34E-DE35EA450A3E}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Resume_Music_YOURCIV_CODENAME" ID="{111C4254-C9E3-476D-B9F3-34F8AEBFB537}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="YourCiv_Leader_Music" ID="{71E5E5C0-C939-4B38-A428-0D6D427DBCAF}" WorkUnitID="{EBD0CC1E-6056-49A7-B0C8-9F4F598D65AA}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Music_YOURCIV_CODENAME" ID="{2D4678C3-35DA-4497-A532-DB466C17C16D}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Music_YOURCIV_CODENAME" ID="{D8B6F8CD-BEAA-405E-9ABC-2F04D4A2B373}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Leader_Music_YOURCIV_CODENAME" ID="{F14875CE-6F48-4A0A-AE00-AA682E24C931}" WorkUnitID="{4F359B9A-F423-4624-A9C9-8068E9B342B3}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="YourCiv_Themes" ID="{234024D1-D46D-4E2D-B0C2-AB173128B5E5}" WorkUnitID="{EBD0CC1E-6056-49A7-B0C8-9F4F598D65AA}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
