@@ -948,7 +948,7 @@
 											</PropertyList>
 											<SegmentRef Name="YourCiv_Ancient_Era" ID="{213AC41F-B054-4F48-9634-602B1B100B2F}"/>
 										</MusicPlaylistItem>
-										<MusicPlaylistItem Name="" ID="{27594C66-7F06-4F3C-A9FD-3E95D82CF7A1}" ShortID="291348435">
+										<MusicPlaylistItem Name="" ID="{C294FAC4-8EC9-4E05-A7EA-94A0139C7A88}" ShortID="209688524">
 											<PropertyList>
 												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
 												<Property Name="Weight" Type="Real64">
@@ -957,7 +957,7 @@
 													</ValueList>
 												</Property>
 											</PropertyList>
-											<SegmentRef Name="YourCiv_Medieval_Era" ID="{3A4BF7DE-A273-4C51-9C3D-07752C403EEF}"/>
+											<SegmentRef Name="YourCiv_Ambient01" ID="{06125828-57CE-448C-9565-0096EE6E34E7}"/>
 										</MusicPlaylistItem>
 									</ChildrenList>
 								</MusicPlaylistItem>
